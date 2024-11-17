@@ -1,6 +1,6 @@
 print("hello world")
 
-print("testing")
+print("tEesting")
 
 print("further testing")
 
