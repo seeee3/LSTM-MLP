@@ -3,3 +3,7 @@
 
 # Temporary Office files
 ~$*.xlsx
+
+# Ignore lock files
+.~lock.*#
+
